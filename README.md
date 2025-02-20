@@ -1,4 +1,4 @@
-<h1>Shebang Snippets <sup>+</sup></h1>
+<h1>Shebang Snippets <sup><strong>+</strong></sup></h1>
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/rpinski.shebang-snippets.svg?label=VS%20Marketplace&color=blue)](https://marketplace.visualstudio.com/items?itemName=rpinski.shebang-snippets) [![Open VSX](https://img.shields.io/open-vsx/v/rpinski/shebang-snippets?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/rpinski/shebang-snippets)
 
