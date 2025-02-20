@@ -1,13 +1,13 @@
 {
-  "name": "shebang-snippets",
-  "displayName": "Shebang Snippets",
+  "name": "shebang-snippets-plus",
+  "displayName": "Shebang Snippets Plus",
   "description": "Snippets for shebang lines for different types of scripts.",
   "version": "1.0.0",
-  "publisher": "rpinski",
-  "author": "Andreas Weizel",
+  "publisher": "dir",
+  "author": "Luke Davis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rpinski/vscode-shebang-snippets"
+    "url": "https://github.com/dir/vscode-shebang-snippets-plus"
   },
   "icon": "images/shebang-logo.png",
   "galleryBanner": {
